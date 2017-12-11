@@ -1,0 +1,21 @@
+.rectangle-container {
+    width: 124px;
+    height: 90px;
+    border-radius: 5px;
+    margin-right: 17px;
+    margin-bottom: 14px;
+}
+
+.color-container {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 28px;
+}
+
+.blue {
+    background-color: $primary;
+}
+
+.mrg-btn-0 {
+    margin-bottom: 0px;
+}
