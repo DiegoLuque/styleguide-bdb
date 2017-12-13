@@ -1,5 +1,6 @@
-/*Colores primarios*/
-/*Colores secundarios*/
+/*Paleta primarios*/
+/*Paleta secundarios*/
+/*Paleta backgrounds*/
 .rectangle-container {
   width: 124px;
   height: 90px;
@@ -12,8 +13,62 @@
   vertical-align: top;
   margin-top: 28px; }
 
-.blue {
+.p-blue {
   background-color: #002c76; }
+
+.p-yellow {
+  background-color: #fdc130; }
+
+.p-red {
+  background-color: #d0021b; }
+
+.p-green {
+  background-color: #7ad468; }
+
+.p-black {
+  background-color: #282828; }
+
+.p-white {
+  background-color: #ffffff; }
+
+.border {
+  border: 2px solid #eef0f2; }
+
+.s-blue-1 {
+  background-color: #0040a8; }
+
+.s-blue-2 {
+  background-color: #4070be; }
+
+.s-blue-3 {
+  background-color: #0085e0; }
+
+.s-blue-4 {
+  background-color: #c4d4e3; }
+
+.s-orange {
+  background-color: #eda705; }
+
+.s-red {
+  background-color: #e33031; }
+
+.s-grey-1 {
+  background-color: #59626d; }
+
+.s-grey-2 {
+  background-color: #8a8d94; }
+
+.s-grey-3 {
+  background-color: #c6c8cc; }
+
+.s-grey-4 {
+  background-color: #e1e2e6; }
+
+.s-grey-5 {
+  background-color: #eef0f2; }
+
+.background {
+  background-color: #f6f8fa; }
 
 .mrg-btn-0 {
   margin-bottom: 0px; }
